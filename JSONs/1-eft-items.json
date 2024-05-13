@@ -1,0 +1,17 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "5448fee04bdc2dbc018b4567",
+        "name": "Bottle of water (0.6L)",
+        "shortName": "Water",
+        "baseImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-base-image.webp",
+        "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
+        "image8xLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-8x.webp",
+        "image512pxLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-512.webp",
+        "inspectImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-image.webp",
+        "avg24hPrice": 19650
+      }
+    ]
+  }
+}

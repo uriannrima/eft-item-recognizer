@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.11",
+    "esbuild": "^0.21.1",
+    "esbuild-runner": "^2.2.2",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "dev": "node -r esbuild-runner/register main.ts"
+  },
+  "devDependencies": {
+    "@tsconfig/node-lts": "^20.1.3"
+  }
+}
